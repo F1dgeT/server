@@ -2,11 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello,saha"
+      "title": "hello, saha"
     },
     {
       "id": 2,
-      "title": "hello,saharok"
+      "title": "hello, saharok"
+    },
+     {
+      "id": 3,
+      "title": "hello, max"
     }
   ],
   "profile": {
